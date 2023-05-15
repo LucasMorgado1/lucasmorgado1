@@ -1,6 +1,6 @@
 ### Opa, sou o Lucas, prazer!
 
-- 🎮 Estudante de Jogos Digitais
+- 🎮 Bacharel em Jogos Digitais
 - 📚 Aprendendo C# e Unity
 
 
