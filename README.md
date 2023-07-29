@@ -1,7 +1,7 @@
 ### Opa, sou o Lucas, prazer!
 
-- 🎮 Bacharel em Jogos Digitais
-- 📚 Aprendendo C# e Unity
+- 🎮 Game Design Bachelor's Degree  
+- 📚 Always looking to improve
 
 
 
